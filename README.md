@@ -7,8 +7,7 @@ For now it's just an alignment script, I intend to have scripts for denoising, n
 
 A lot of this is going to be me kludging together bits from various very nice computer vision tutorials. Thus far, I've used:
 
-https://github.com/mataktelis/face-morphing-algorithms
-
-https://github.com/Miahi21/Face-Alignment-Cropping
-
-https://woteq.com/how-to-rotate-images-in-python-using-opencv-cv2
+- https://github.com/mataktelis/face-morphing-algorithms
+- https://github.com/Miahi21/Face-Alignment-Cropping
+- https://woteq.com/how-to-rotate-images-in-python-using-opencv-cv2
+- https://www.geeksforgeeks.org/computer-vision/face-alignment-with-opencv-and-python/
